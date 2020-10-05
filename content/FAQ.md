@@ -3,13 +3,13 @@
 ### Napačno uporabniško ime in/ali geslo
 
 #### Vzrok
-Največji vzrok težav je napačno uporabniško ime oziroma napačno geslo, ki se ga poda ob nastavitvi omrežja.
+Najpogostejši vzrok težav je napačno uporabniško ime oziroma napačno geslo, ki se ga poda ob nastavitvi omrežja.
 
 #### Rešitev
 * Z isto kombinacijo uporabniškega imena in gesla se skušajte prijaviti v MojŠtudent. Če vpis uspe, potem je kombinacija pravilna in uporabimo isto ob nastavitvi omrežja.
-* Starejši računi (torej računi od stanovalcev, ki so >= 5 let vseljeni) imajo drugačno uporabniško ime in sicer ne `Xyyyyy@sd-lj.si` ampak `Xyyyyy@sd.uni-lj.si`. Svoj račun se lahko preveri z vpisom v MojŠtudent, nato se odpre stran Internet (Storitve > Internet), kjer bo pisal vaš ŠDL račun. 
+* Starejši računi (torej računi od stanovalcev, ki so >= 5 let vseljeni) imajo drugačno uporabniško ime in sicer ne `Xyyyyy@sd-lj.si` ampak `Xyyyyy@sd.uni-lj.si`. Svoj račun se lahko preveri z vpisom v MojŠtudent, nato se odpre stran Internet (Storitve > Internet), kjer bo pisal vaš ŠDL račun. Ostali stanovalci imajo prvo obliko računa - pri tem je potrebno biti pozoren, saj zna SecureW2 program sam vnesti to polje, ki pa je velikokrat napačno (samodejno vnese drugo obliko računa).
 * Ob prvi prijavi v MojŠtudent je bilo potrebno nastaviti novo geslo. Tam nas je tudi vprašalo po našem elektronskem naslovu. Podani elektronski naslov se lahko tudi uporabi kot uporabniško ime ob nastavitvi omrežja, vendar sem že naletel na probleme s takim načinom prijave, tako, da priporočam, da se uporablja vaš ŠDL račun.
-* Če ste geslo pozabili se skušajte prijaviti v MojŠtudent. Ob neuspeli prijavi boste dobili možnost ponastavitve gesla, ki vam na elektronski naslov pošlje povezavo za spremembo gesla. Povezava se pošlje na elektronski naslov, ki ste ga podali ob prvi prijavi v MojŠtudent. Če ste geslo pozabili, pa niste še opravili prve prijave (in nastavili e-mail), ga lahko ponastavi samo nekdo na upravi v študentski pisarni.
+* Če ste geslo pozabili se skušajte prijaviti v MojŠtudent. Ob neuspeli prijavi boste dobili možnost ponastavitve gesla, ki vam na elektronski naslov pošlje povezavo za spremembo gesla. Povezava se pošlje na elektronski naslov, ki ste ga podali ob prvi prijavi v MojŠtudent. Če ste geslo pozabili, pa niste še opravili prve prijave (in nastavili e-mail), ga lahko ponastavijo samo na upravi v študentski pisarni.
 
 ### Manjkajoče možnosti
 
@@ -23,3 +23,5 @@ V takem primeru, se moramo najprej prijaviti v MojŠtudent in prenesti datoteko.
 * ...
 
 Datoteko nato poženemo in sledimo navodilom objavljenim v MojŠtudent pod **Storitve > Internet** ali pa na tejle strani.
+
+![image](../media/wifi/wifi14.png)
