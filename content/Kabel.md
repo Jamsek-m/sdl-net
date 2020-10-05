@@ -35,7 +35,7 @@ Nato kliknemo gumb **Nastavitve**, ki je zraven tega spustnega seznama
 
 V zadnjem zavihku pa vnesemo naslednje možnosti:
 * **Vprašaj uporabnika za geslo**: ne izberemo
-* **Uporabniško ime**: Vnesemo svoj ŠDL račun, ki ste ga dobili ob vselitvi. (Račun je v obliki Xyyyyy@sd-lj.si, pri čemer je X prva črka imena in yyyyy pet črk priimka.)
+* **Uporabniško ime**: Vnesemo svoj ŠDL račun, ki ste ga dobili ob vselitvi. (Račun je v obliki xxxxxx@sd-lj.si, pri čemer je prvi del sestavljen iz imena in priimka.)
 * **Geslo**: Geslo je isto kot za MojŠtudent in je isto, kot ste ga nastavili ob prvi prijavi v MojŠtudent. Če prve prijave v MojŠtudent niste še opravili in ste izgubili geslo, je potrebno zaprositi za novo geslo - to se stori lahko samo na upravi.
 * **Uporabi ta račun za prijavo**: To možnost izberemo.
 
