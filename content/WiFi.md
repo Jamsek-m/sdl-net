@@ -49,7 +49,7 @@ potrebne nastavitve ostaja isto).
 * **Samodejno zaženi to povezavo**: Ta možnost naj bo izbrana
 * **Vzpostavi povezavo, tudi če omrežje ne oddaja**: Pustimo neizbrano
 
-**!!POMEMBNO:**
+‼️‼️ **POMEMBNO:**
 Kliknemo **Naprej**. Ko nas vpraša ali bi radi spremenili nastavitve 
 povezave, kliknemo na okvir s tem besedilom, in se nam odpre 
 okno, prikazano v točki 6.
