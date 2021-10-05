@@ -4,6 +4,8 @@
 
 1. Najprej prenesemo datoteko Eduroam.exe, ki jo 
    dobimo v **Internet** meniju:
+   
+![image](../media/internet_menu.png)
 
 ![image](../media/wifi/wifi14.png)
 
