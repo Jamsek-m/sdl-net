@@ -33,7 +33,7 @@ V kontekstnem meniju, ki se nam pojavi ob desnem kliku, izberemo možnost **Last
 
 ![image](../media/eth/eth4.png)
 
-Če te možnosti ne vidimo, pomeni, da nismo namestili programa [SecureW2](./SecureW2.md), ali pa le-ta ni bil pravilno nameščen.
+‼️‼️ Če te možnosti ne vidimo, pomeni, da nismo namestili programa [SecureW2](./SecureW2.md), ali pa le-ta ni bil pravilno nameščen.
 
 Nato kliknemo gumb **Nastavitve**, ki je zraven tega spustnega seznama
 
