@@ -6,13 +6,13 @@ Uradna navodila za nastavitev omrežja se nahajajo v aplikaciji [MojŠtudent](ht
 
 ![internet menu](./media/official_instructions.png)
 
-**Za dostop do te strani potrebujemo imeti samo priključen kabel!** 
+‼️‼️ **Za dostop do te strani potrebujemo imeti samo priključen kabel!** 
 *Tudi če nimamo internetne povezave s svetom, dokler smo s 
 kablom priključeni v ŠDL domovih, bo ta stran delovala.*
 
 ## Pogoste težave
 
-Za seznam pogostih težav [glej povezavo](./content/FAQ.md).
+❓ Za seznam pogostih težav [glej povezavo](./content/FAQ.md).
 
 ## Nastavitev interneta
 
@@ -25,7 +25,7 @@ aplikacija pozvala, da spremenite svoje geslo, pri čemer bo staro
 geslo postalo neveljavno. Od sedaj naprej je potrebno uporabiti 
 podano uporabniško ime in nastavljeno geslo. Z več informacij v zvezi z uporabniškim imenom in geslom, [glej povezavo](./content/Username.md).
 
-**Ta korak je potrebno storiti, preden želimo nastaviti internet.**
+‼️‼️ **Ta korak je potrebno storiti, preden želimo nastaviti internet.**
 
 ### 2. Namestitev SecureW2 programa
 

@@ -1,6 +1,6 @@
 # Namestitev programa SecureW2 (Eduroam client)
 
-**OPOZORILO: Ob končani namestitvi bomo morali računalnik ponovno zagnati**
+‼️‼️ **OPOZORILO: Ob končani namestitvi bomo morali računalnik ponovno zagnati**
 
 1. Najprej prenesemo datoteko Eduroam.exe, ki jo 
    dobimo v **Internet** meniju:

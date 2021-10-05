@@ -21,4 +21,4 @@ Pri vnosu ŠDL ID, bodite pozorni na domenski del e-naslova (za znakom `@`),
 saj se lahko pri starejših računih (pri tistih, ki so vseljeni 5+ let) ta nekoliko razlikuje.
 In sicer, njihova domena ni `xxxxxx@sd-lj.si`, temveč `xxxxxx@sd.uni-lj.si`.
 
-**To zadnjo domeno, velikokrat SecureW2 samodejno predlaga kot domeno. V primeru, da se ta ne ujema z vašim ŠDL ID, jo je potrebno popraviti!**
+‼️‼️ **To zadnjo domeno, velikokrat SecureW2 samodejno predlaga kot domeno. V primeru, da se ta ne ujema z vašim ŠDL ID, jo je potrebno popraviti!**
