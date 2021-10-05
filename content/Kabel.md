@@ -1,8 +1,16 @@
 # ŠDL Ethernet (Kabel)
 
-Uradno stališče ŠDL je, da je povezava preko kabla primarna in se smatra, da večina uporabnikov dostopa do interneta preko kabla. Omogočena je tudi uporaba WiFi omrežja, ampak se je potrebno zavedati da je to sekundarni način dostopa do interneta in ni zagotovila, da bo dobro delovalo. Na WiFi se tako lahko zgodi, da se internet precej upočasni, lahko nam pa tudi prekine povezavo in se moramo znova povezati (Pri čemer ponovimo samo 8. točko iz spodnjih navodil).
+Stališče ŠDL je, da je povezava preko kabla primarna, torej se smatra, da 
+večina uporabnikov dostopa do interneta preko kabla. Omogočena je tudi 
+uporaba WiFi omrežja, ampak se je potrebno zavedati, da je to sekundarni 
+način dostopa do interneta in ni zagotovila, da bo dobro deloval. 
+Na WiFi se tako lahko zgodi, da se internet precej upočasni, lahko nam 
+pa tudi prekine povezavo in se moramo znova povezati (pri čemer ponovimo 
+samo 8. točko iz spodnjih navodil).
 
-Priporočeno je, da se ob nastavljanju omrežja uredi tudi povezava preko kabla (če nimate kabla, si ga začasno sposodite od cimra/e, dobite pa ga v vsaki tehnični trgovini pod imenom UTP kabel).
+Priporočeno je, da se ob nastavljanju omrežja uredi tudi povezava 
+preko kabla (če nimate kabla, si ga začasno sposodite od cimra/e, 
+dobite pa ga v vsaki tehnični trgovini pod imenom UTP kabel).
 
 # Nastavitev ŠDL Ethernet (kabel) na Windows 10
 
@@ -19,13 +27,18 @@ V kontekstnem meniju, ki se nam pojavi ob desnem kliku, izberemo možnost **Last
 
 ![image](../media/eth/eth3.png)
 
-4. Odpremo zavihek **Preverjanje pristnosti** in iz spustnega seznama izberemo možnost **SecureW2: SecureW2 EAP-TTLS**
+4. Odpremo zavihek **Preverjanje pristnosti** in v sekciji 
+   **Izberite način preverjanja pristnosti v omrežju**, iz spustnega seznama
+   izberemo možnost **SecureW2: SecureW2 EAP-TTLS**:
 
 ![image](../media/eth/eth4.png)
 
+Če te možnosti ne vidimo, pomeni, da nismo namestili programa [SecureW2](./SecureW2.md), ali pa le-ta ni bil pravilno nameščen.
+
 Nato kliknemo gumb **Nastavitve**, ki je zraven tega spustnega seznama
 
-5. V prvem, drugem in tretjem zavihku, preverimo da so izbrane iste možnosti kot na sliki:
+5. V prvem, drugem in tretjem zavihku, preverimo, da so izbrane(obkljukane)
+   iste možnosti kot na sliki:
 
 ![wifi9](../media/wifi/wifi9.png)
 
@@ -35,8 +48,8 @@ Nato kliknemo gumb **Nastavitve**, ki je zraven tega spustnega seznama
 
 V zadnjem zavihku pa vnesemo naslednje možnosti:
 * **Vprašaj uporabnika za geslo**: ne izberemo
-* **Uporabniško ime**: Vnesemo svoj ŠDL račun, ki ste ga dobili ob vselitvi. (Račun je v obliki xxxxxx@sd-lj.si, pri čemer je prvi del sestavljen iz imena in priimka.)
-* **Geslo**: Geslo je isto kot za MojŠtudent in je isto, kot ste ga nastavili ob prvi prijavi v MojŠtudent. Če prve prijave v MojŠtudent niste še opravili in ste izgubili geslo, je potrebno zaprositi za novo geslo - to se stori lahko samo na upravi.
+* **Uporabniško ime**: Vnesemo svoj ŠDL račun, ki ste ga dobili ob vselitvi. (Račun je v obliki xxxxxx@sd-lj.si, pri čemer je prvi del sestavljen iz imena in priimka, [glej povezavo](./Username.md))
+* **Geslo**: Geslo je isto kot za MojŠtudent in je isto, kot ste ga nastavili ob prvi prijavi v MojŠtudent. Če prve prijave v MojŠtudent niste še opravili in ste izgubili geslo, je potrebno zaprositi za novo geslo – to se stori lahko samo na upravi.
 * **Uporabi ta račun za prijavo**: To možnost izberemo.
 
 ![wifi12](../media/wifi/wifi12.png)
