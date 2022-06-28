@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # Izbira uporabniškega imena in gesla za prijavo
 
 V aplikaciji MojŠtudent imamo registrirani dve uporabniški imeni: 

@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # ŠDL WiFi
 
 Uradno stališče ŠDL je, da je povezava preko kabla primarna in se smatra, 

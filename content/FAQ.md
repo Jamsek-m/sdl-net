@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # Pogoste težave
 
 ### Napačno uporabniško ime in/ali geslo

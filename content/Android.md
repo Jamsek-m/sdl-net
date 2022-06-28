@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # WiFi - Android
 
 Na mobilnih napravah z novejšo rezličico Android, je potrebno nastaviti nekatere dodatne vrednosti, da bo povezava delovala.

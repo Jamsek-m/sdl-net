@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # ŠDL Ethernet (Kabel)
 
 Stališče ŠDL je, da je povezava preko kabla primarna, torej se smatra, da 

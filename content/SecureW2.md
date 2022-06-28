@@ -1,3 +1,5 @@
+[Domov](../README.md)
+
 # Namestitev programa SecureW2 (Eduroam client)
 
 ‼️‼️ **OPOZORILO: Ob končani namestitvi bomo morali računalnik ponovno zagnati**
