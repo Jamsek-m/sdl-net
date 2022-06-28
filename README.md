@@ -37,4 +37,5 @@ Ko smo uspešno namestili **SecureW2** program (in ponovno zagnali računalnik),
 
 Izberi ustrezno namestitev:
 * [Žična povezava - kabel](./content/Kabel.md)
-* [Brezžična povezava - WiFi](./content/WiFi.md)
+* [Brezžična povezava - WiFi (PC)](./content/WiFi.md)
+* [Brezžična povezava - WiFi (Android)](./content/Android.md)
