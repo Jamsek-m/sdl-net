@@ -8,7 +8,9 @@ Na mobilnih napravah z novejšo rezličico Android, je potrebno nastaviti nekate
 
 ![a3](../media/android/a3.png)
 
-2. Ko je ta datoteka prenesena, jo je potrebno namestiti v hrambo potrdil operacijskega sistema Android ([Primer namestitve potrdila](https://support.google.com/pixelphone/answer/2844832?hl=en)).
+2. Ko je ta datoteka prenesena, jo je potrebno namestiti v hrambo potrdil operacijskega sistema Android ([Primer namestitve potrdila](https://support.google.com/pixelphone/answer/2844832?hl=en)). 
+
+‼️‼️ Namestitev je potrebno opraviti iz nastavitev za internet (zaganjanje datoteke iz prenosov ne bo delovalo, ker bo Android blokiral to možnost)
 
 3. Po uspešni namestitvi potrdila, izpolnimo nastavitve povezave `SDLnet`:
 
